@@ -1,80 +1,90 @@
-# Hi there, I'm Jebarson Caleb D 👋
-
-## 💼 About Me
-
-Accomplished **Backend Developer** with a strong command of **Python** and **SQL**, passionate about building optimized and scalable systems.  
-I specialize in identifying and resolving performance bottlenecks—like the real-time **Trip Guide app**, which improved search time by 40%.  
-I'm currently pursuing a **B.Tech in Computer Science & Engineering**, maintaining a CGPA of **9.55**, and aiming to contribute backend excellence at scale.
-
-🚀 I'm driven by a desire to build user-centric products with clean code and high performance.
+<h1 align="center">Hi, I'm Jebarson Caleb D</h1>
+<p align="center">
+  <i>Backend Developer · Problem Solver · Code Optimizer</i><br>
+  <i>Clean Code | Scalable Systems | Python Power</i>
+</p>
 
 ---
 
-## 🧠 Skills & Technologies
+### 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+I'm a passionate **Backend Developer** skilled in crafting efficient, scalable systems using **Python**, **SQL**, and more.  
+My projects are driven by optimization and clean architecture — like a real-time **Trip Guide App** that boosted search speed by **40%**.  
+Currently pursuing **B.Tech in CSE** (CGPA: **9.55**), I aim to contribute meaningful code to world-class products.
 
 ---
 
-## 🔢 LeetCode Stats
+### 🛠️ Tech Stack
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jebarson_007?theme=dark&font=Baloo)](https://leetcode.com/u/jebarson_007/)
-
----
-
-## 🚀 Projects
-
-### 🌍 Trip Guide App
-- Built a real-time trip guide app using **Google Maps API**.
-- Implemented an advanced search system reducing query time by 40%.
-- Supported 10,000+ users with zero performance drops.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
 
 ---
 
-## 🏆 Key Achievements
+### 📈 LeetCode Progress
 
-- ⚡ **Reduced API response time by 40%** to enhance data efficiency.
-- 🐞 **Resolved 15+ critical bugs**, improving system stability.
-- 📈 **Developed scalable platforms** with 500+ daily active users.
-- 🛠️ **Led project coordination** for 5+ successful tech projects.
-- 🧩 Earned **positive feedback** for solving complex backend issues.
-
----
-
-## 📚 Education
-
-🎓 **B.Tech in Computer Science & Engineering**  
-📍 *Karunya Institute of Technology and Sciences*  
-📊 **CGPA: 9.55**
-
-🛠️ Member of IITM Build Club | NSS Volunteer
+<p align="center">
+  <a href="https://leetcode.com/u/jebarson_007/">
+    <img src="https://leetcard.jacoblin.cool/jebarson_007?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 🚀 Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jebarson-caleb/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/jebarson-caleb)  
-✉️ **Email:** jebarsoncalebd@gmail.com  
-📍 **Location:** Tirupur, India
-
----
-
-## 📊 GitHub Stats
-
-![Jebarson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jebarson-caleb&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jebarson-caleb&layout=compact&theme=github_dark)
+**🗺️ Trip Guide App**  
+> Built a real-time travel assistant using Google Maps API.  
+> Optimized queries, improving search time by **40%**.  
+> Supports 10K+ users with high-performance scaling.
 
 ---
 
-## 🧭 My Passions
+### 🏆 Highlights & Achievements
 
-- 🔧 Backend & Full-Stack Architecture  
-- ⚙️ Performance Optimization  
-- 🧠 AI/ML & Data Analytics  
-- ☁️ Cloud & DevOps Exploration  
-- 🎯 Scalable Real-World Systems
+- ⏱️ Reduced API response time by **40%**
+- 🐞 Fixed 15+ critical bugs improving backend stability
+- 🧠 Scaled systems for **500+ DAUs**
+- 🧩 Member of **IITM Build Club**
+- 💡 NSS Volunteer with leadership roles
+
+---
+
+### 📚 Education
+
+**B.Tech in Computer Science & Engineering**  
+🧭 Karunya Institute of Technology and Sciences  
+📍 Tirupur, India  
+🎓 CGPA: **9.55**
+
+---
+
+### 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jebarson-caleb&show_icons=true&theme=github_dark&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebarson-caleb&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+---
+
+### 🔗 Connect With Me
+
+<div align="center">
+  <a href="mailto:jebarsoncalebd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jebarson-caleb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/jebarson_007/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://github.com/jebarson-caleb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+---
+
+<p align="center">
+  <i>“Code for clarity. Build for scale.”</i>
+</p>
