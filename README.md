@@ -179,7 +179,6 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BD93F9)](https://www.linkedin.com/in/jebarson-caleb/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=BD93F9)](https://leetcode.com/u/jebarson_007/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9)](https://github.com/jebarson-caleb)
-[![Phone](https://img.shields.io/badge/-+91_6379771382-0D1117?style=for-the-badge&logo=whatsapp&logoColor=BD93F9)](tel:+916379771382)
   
 </div>
 
