@@ -10,26 +10,16 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="68%" valign="middle">
-      <h2>Creative engineer for products and systems<br />that are built to move forward.</h2>
-      <p>
-        I’m <strong>Jebarson Caleb D</strong> — a software engineer and product builder working where
-        full-stack platforms, applied AI, embedded systems, and robotics meet.
-      </p>
-      <p>
-        I turn ambitious concepts into dependable code, tangible hardware, and experiences people can actually use.
-      </p>
-      <p><code>SOFTWARE</code> <code>SYSTEMS</code> <code>AI</code> <code>ROBOTICS</code></p>
-    </td>
-    <td width="32%" align="center" valign="bottom">
-      <img src="https://raw.githubusercontent.com/jebarson-caleb/jebarson-caleb.github.io/main/src/assets/profile-cutout.png" width="245" alt="Jebarson Caleb" />
-      <br />
-      <sub>TIRUPUR, INDIA · KITS ’28</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>Creative engineer for products and systems<br />that are built to move forward.</h2>
+  <p>
+    I’m <strong>Jebarson Caleb D</strong> — a software engineer and product builder working where<br />
+    full-stack platforms, applied AI, embedded systems, and robotics meet.
+  </p>
+  <p>I turn ambitious concepts into dependable code, tangible hardware, and experiences people can actually use.</p>
+  <p><code>SOFTWARE</code> <code>SYSTEMS</code> <code>AI</code> <code>ROBOTICS</code></p>
+  <sub>TIRUPUR, INDIA · KITS ’28</sub>
+</div>
 
 ## Selected work
 
@@ -78,6 +68,16 @@
 </div>
 
 <sub>Generated from the GitHub API and refreshed automatically each week. Stars and language totals exclude forks.</sub>
+
+## LeetCode signal
+
+<div align="center">
+  <a href="https://leetcode.com/u/jebarson_007ptFBEN/">
+    <img src="https://leetcard.jacoblin.cool/jebarson_007ptFBEN?theme=dark&font=DM%20Sans&ext=heatmap&border=0&radius=10" width="92%" alt="Jebarson Caleb's live LeetCode statistics and submission heatmap" />
+  </a>
+</div>
+
+<sub>Live problem-solving activity for <a href="https://leetcode.com/u/jebarson_007ptFBEN/">@jebarson_007ptFBEN</a>. The card updates automatically from LeetCode.</sub>
 
 <br />
 
