@@ -1,38 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Jebarson Caleb</title>
-  <desc id="desc">Software, systems, AI, and robotics portfolio banner in black, warm white, and vermilion.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+  <title id="title">Jebarson Caleb — Creative Engineer</title>
+  <desc id="desc">A modern dark portfolio banner with editorial typography and an animated systems map.</desc>
   <defs>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#242424" stroke-width="1"/>
+    <radialGradient id="glow" cx="72%" cy="42%" r="58%">
+      <stop offset="0" stop-color="#EE4E27" stop-opacity=".28"/>
+      <stop offset=".44" stop-color="#8A2414" stop-opacity=".11"/>
+      <stop offset="1" stop-color="#050505" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop stop-color="#F3F1EC" stop-opacity=".04"/>
+      <stop offset=".55" stop-color="#F3F1EC" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#EE4E27" stop-opacity=".65"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#F3F1EC" opacity=".09"/>
     </pattern>
-    <clipPath id="orange-panel">
-      <path d="M925 0h275v360H850l75-360Z"/>
-    </clipPath>
+    <filter id="soft-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
 
-  <rect width="1200" height="360" fill="#050505"/>
-  <rect width="1200" height="360" fill="url(#grid)" opacity=".72"/>
-  <path d="M925 0h275v360H850l75-360Z" fill="#EE4E27"/>
+  <rect width="1280" height="460" rx="18" fill="#050505"/>
+  <rect width="1280" height="460" rx="18" fill="url(#glow)"/>
+  <rect width="1280" height="460" rx="18" fill="url(#dots)"/>
+  <rect x="1" y="1" width="1278" height="458" rx="17" fill="none" stroke="url(#edge)"/>
 
-  <g fill="none" stroke="#F3F1EC" opacity=".17" clip-path="url(#orange-panel)">
-    <circle cx="1088" cy="180" r="178" stroke-width="1.4"/>
-    <circle cx="1088" cy="180" r="126" stroke-width="1.4"/>
-    <circle cx="1088" cy="180" r="74" stroke-width="1.4"/>
-    <path d="M850 180h350M1088 0v360"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif">
+    <g transform="translate(46 38)">
+      <rect width="210" height="30" rx="15" fill="#F3F1EC" fill-opacity=".06" stroke="#F3F1EC" stroke-opacity=".14"/>
+      <circle cx="17" cy="15" r="4" fill="#EE4E27" filter="url(#soft-glow)">
+        <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="31" y="20" fill="#D8D4CE" font-size="11" font-weight="700" letter-spacing="2">CREATIVE ENGINEER / 2026</text>
+    </g>
+
+    <text x="47" y="165" fill="#F3F1EC" font-size="78" font-weight="800" letter-spacing="-4">JEBARSON</text>
+    <text x="47" y="246" fill="#EE4E27" font-family="Georgia, Times New Roman, serif" font-size="86" font-style="italic" letter-spacing="-5">Caleb D.</text>
+    <text x="50" y="300" fill="#A7A29B" font-size="17" letter-spacing=".4">Building intelligent products across software, systems, AI, and robotics.</text>
+
+    <g transform="translate(48 342)" font-size="11" font-weight="700" letter-spacing="1.7">
+      <rect width="104" height="34" rx="17" fill="#F3F1EC" fill-opacity=".07" stroke="#F3F1EC" stroke-opacity=".14"/>
+      <text x="52" y="22" text-anchor="middle" fill="#F3F1EC">SOFTWARE</text>
+      <rect x="114" width="96" height="34" rx="17" fill="#F3F1EC" fill-opacity=".07" stroke="#F3F1EC" stroke-opacity=".14"/>
+      <text x="162" y="22" text-anchor="middle" fill="#F3F1EC">SYSTEMS</text>
+      <rect x="220" width="56" height="34" rx="17" fill="#F3F1EC" fill-opacity=".07" stroke="#F3F1EC" stroke-opacity=".14"/>
+      <text x="248" y="22" text-anchor="middle" fill="#F3F1EC">AI</text>
+      <rect x="286" width="104" height="34" rx="17" fill="#F3F1EC" fill-opacity=".07" stroke="#F3F1EC" stroke-opacity=".14"/>
+      <text x="338" y="22" text-anchor="middle" fill="#F3F1EC">ROBOTICS</text>
+    </g>
+
+    <text x="48" y="424" fill="#76716B" font-size="10" font-weight="700" letter-spacing="2.5">TIRUPUR, INDIA  /  BUILD · TEST · SHIP</text>
   </g>
 
-  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="48" y="54" fill="#A8A39B" font-size="13" font-weight="700" letter-spacing="4">JCD® / PORTFOLIO / 2026</text>
-    <text x="48" y="153" fill="#F3F1EC" font-size="76" font-weight="800" letter-spacing="-3">JEBARSON</text>
-    <text x="48" y="235" fill="#EE4E27" font-size="76" font-weight="800" letter-spacing="-3">CALEB D</text>
-    <line x1="48" y1="276" x2="795" y2="276" stroke="#F3F1EC" stroke-opacity=".28"/>
-    <text x="48" y="316" fill="#F3F1EC" font-size="15" font-weight="650" letter-spacing="3">SOFTWARE / SYSTEMS / AI / ROBOTICS</text>
+  <g transform="translate(1004 229)" fill="none">
+    <circle r="178" stroke="#F3F1EC" stroke-opacity=".08"/>
+    <circle r="142" stroke="#F3F1EC" stroke-opacity=".11" stroke-dasharray="3 9">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="38s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="98" stroke="#F3F1EC" stroke-opacity=".13"/>
+    <ellipse rx="178" ry="62" stroke="#EE4E27" stroke-opacity=".32" transform="rotate(-18)">
+      <animateTransform attributeName="transform" type="rotate" from="-18" to="342" dur="28s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="62" ry="178" stroke="#F3F1EC" stroke-opacity=".12" transform="rotate(28)"/>
 
-    <text x="1087" y="198" text-anchor="middle" fill="#050505" font-size="90" font-weight="900" letter-spacing="-7">JC</text>
-    <text x="1087" y="226" text-anchor="middle" fill="#050505" font-size="11" font-weight="800" letter-spacing="3">BUILD / TEST / SHIP</text>
-    <text x="1160" y="326" text-anchor="end" fill="#050505" font-size="12" font-weight="800" letter-spacing="2">TIRUPUR, IN</text>
+    <circle r="48" fill="#090909" stroke="#EE4E27" stroke-opacity=".7"/>
+    <circle r="5" fill="#EE4E27" filter="url(#soft-glow)"/>
+    <path d="M-28 0H28M0-28V28" stroke="#F3F1EC" stroke-opacity=".15"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.4">
+      <g transform="translate(-105 -90)"><circle r="5" fill="#D7FF3F"/><text x="12" y="4" fill="#D7FF3F">AI</text></g>
+      <g transform="translate(117 -42)"><circle r="5" fill="#5A7DFF"/><text x="12" y="4" fill="#5A7DFF">WEB</text></g>
+      <g transform="translate(76 118)"><circle r="5" fill="#FF3F98"/><text x="12" y="4" fill="#FF3F98">VISION</text></g>
+      <g transform="translate(-143 52)"><circle r="5" fill="#EE4E27"/><text x="12" y="4" fill="#EE4E27">EDGE</text></g>
+    </g>
   </g>
 
-  <circle cx="812" cy="276" r="5" fill="#EE4E27"/>
-  <path d="M829 276h61" stroke="#EE4E27" stroke-width="2"/>
+  <path d="M674 386H888" stroke="#F3F1EC" stroke-opacity=".12"/>
+  <path d="M674 386H754" stroke="#EE4E27" stroke-width="2"/>
+  <circle cx="764" cy="386" r="4" fill="#EE4E27"/>
 </svg>

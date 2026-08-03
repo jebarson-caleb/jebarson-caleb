@@ -112,7 +112,7 @@ def format_number(value: int) -> str:
 
 
 def render_svg(stats: dict[str, int], languages: Counter[str]) -> str:
-    palette = ["#EE4E27", "#F3F1EC", "#9B958C", "#C43A20", "#625E58"]
+    palette = ["#EE4E27", "#D7FF3F", "#5A7DFF", "#FF3F98", "#F3F1EC"]
     top_languages = languages.most_common(5)
     total_bytes = sum(count for _, count in top_languages) or 1
 

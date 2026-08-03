@@ -1,65 +1,74 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Jebarson Caleb — software, systems, AI, and robotics" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Jebarson Caleb — creative engineer for products and systems" />
 </div>
 
 <div align="center">
-  <a href="https://jebarson-caleb.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-EE4E27?style=flat-square&logo=vercel&logoColor=050505" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/jebarson-caleb/"><img src="https://img.shields.io/badge/LINKEDIN-141414?style=flat-square&logo=linkedin&logoColor=F3F1EC" alt="LinkedIn" /></a>
-  <a href="mailto:jebarsoncalebd@gmail.com"><img src="https://img.shields.io/badge/EMAIL-141414?style=flat-square&logo=gmail&logoColor=F3F1EC" alt="Email" /></a>
-  <a href="https://github.com/jebarson-caleb?tab=followers"><img src="https://img.shields.io/github/followers/jebarson-caleb?style=flat-square&logo=github&label=FOLLOWERS&labelColor=141414&color=EE4E27" alt="GitHub followers" /></a>
+  <a href="https://jebarson-caleb-github-io.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-EE4E27?style=for-the-badge&logo=vercel&logoColor=050505" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jebarson-caleb/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=F3F1EC" alt="LinkedIn" /></a>
+  <a href="mailto:jebarsoncalebd@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-111111?style=for-the-badge&logo=gmail&logoColor=F3F1EC" alt="Email" /></a>
 </div>
 
 <br />
 
-> I build intelligent products that connect ambitious ideas to useful, real-world systems.
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      <h2>Creative engineer for products and systems<br />that are built to move forward.</h2>
+      <p>
+        I’m <strong>Jebarson Caleb D</strong> — a software engineer and product builder working where
+        full-stack platforms, applied AI, embedded systems, and robotics meet.
+      </p>
+      <p>
+        I turn ambitious concepts into dependable code, tangible hardware, and experiences people can actually use.
+      </p>
+      <p><code>SOFTWARE</code> <code>SYSTEMS</code> <code>AI</code> <code>ROBOTICS</code></p>
+    </td>
+    <td width="32%" align="center" valign="bottom">
+      <img src="https://raw.githubusercontent.com/jebarson-caleb/jebarson-caleb.github.io/main/src/assets/profile-cutout.png" width="245" alt="Jebarson Caleb" />
+      <br />
+      <sub>TIRUPUR, INDIA · KITS ’28</sub>
+    </td>
+  </tr>
+</table>
 
-I’m **Jebarson Caleb D**, a software engineer and product builder working across full-stack platforms, applied AI, embedded systems, and robotics. I’m currently studying Computer Science at Karunya Institute of Technology and Sciences (2024–2028).
+## Selected work
 
-My favorite work lives in the difficult middle: turning an ambitious concept into dependable code, tangible hardware, and an experience people can actually use.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jebarson-caleb/disaster"><img src="./assets/cards/resq-command.svg" width="100%" alt="ResQ Command" /></a>
+      <h3><a href="https://github.com/jebarson-caleb/disaster">ResQ Command ↗</a></h3>
+      <p>A full-stack disaster-response command center for reporting, triage, dispatch, public warnings, shelters, hospitals, logistics, and welfare checks.</p>
+      <p><code>Python</code> <code>Flask</code> <code>Vite</code> <code>PostgreSQL</code></p>
+      <p><a href="https://disaster-delta-eight.vercel.app/"><strong>LIVE BETA ↗</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jebarson-caleb/intel_phase2"><img src="./assets/cards/emergency-triage.svg" width="100%" alt="Emergency Response Triage" /></a>
+      <h3><a href="https://github.com/jebarson-caleb/intel_phase2">Emergency Response Triage ↗</a></h3>
+      <p>Offline-capable emergency triage with voice intake, explainable ML decisions, encrypted patient data, and a rule-first safety engine.</p>
+      <p><code>FastAPI</code> <code>Streamlit</code> <code>TensorFlow</code> <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jebarson-caleb/Voice-Activated-Cartesian-Bot-VOABT-"><img src="./assets/cards/voabt.svg" width="100%" alt="Voice-Activated Cartesian Bot" /></a>
+      <h3><a href="https://github.com/jebarson-caleb/Voice-Activated-Cartesian-Bot-VOABT-">Voice-Activated Cartesian Bot ↗</a></h3>
+      <p>An assistive robotics system that transforms natural speech into handwriting through Whisper, G-code generation, and GRBL motion control.</p>
+      <p><code>Python</code> <code>Whisper</code> <code>C</code> <code>GRBL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jebarson-caleb/facial-recognition-system"><img src="./assets/cards/emotion-ai.svg" width="100%" alt="Facial Recognition and Emotion AI" /></a>
+      <h3><a href="https://github.com/jebarson-caleb/facial-recognition-system">Emotion AI ↗</a></h3>
+      <p>A real-time vision pipeline for webcam face detection, tracking, and seven-class emotion recognition with MTCNN/OpenCV and Keras.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>MTCNN</code> <code>Keras</code></p>
+    </td>
+  </tr>
+</table>
 
-## Now shipping
-
-### [01 / ResQ Command ↗](https://github.com/jebarson-caleb/disaster)
-
-**A full-stack disaster-response command center.** ResQ Command brings citizen incident reporting, rescue triage and dispatch, public warnings, hospital and shelter coordination, relief logistics, welfare checks, supply requests, and donations into one operational system.
-
-`Python` `Flask` `JavaScript` `Vite` `PostgreSQL` `Vercel`
-
-[Open the live beta](https://disaster-delta-eight.vercel.app/) · [Explore the source](https://github.com/jebarson-caleb/disaster)
-
-## Selected systems
-
-### [02 / Emergency Response Triage ↗](https://github.com/jebarson-caleb/intel_phase2)
-
-Offline-capable, AI-assisted emergency triage with voice and text intake, explainable decisions, encrypted patient-data storage, and a rule-first safety engine.
-
-`FastAPI` `Streamlit` `TensorFlow` `SQLite` `Docker`
-
-### [03 / Voice-Activated Cartesian Bot ↗](https://github.com/jebarson-caleb/Voice-Activated-Cartesian-Bot-VOABT-)
-
-An assistive robotics system that turns natural speech into handwriting using Whisper-powered transcription, G-code generation, and GRBL motion control.
-
-`Python` `Whisper` `C` `GRBL` `CNC`
-
-### [04 / Facial Recognition & Emotion AI ↗](https://github.com/jebarson-caleb/facial-recognition-system)
-
-A real-time computer-vision pipeline for webcam face detection, tracking, and seven-class emotion recognition with MTCNN/OpenCV and Keras.
-
-`Python` `OpenCV` `MTCNN` `Keras` `TensorFlow`
-
-## Working set
+## Tools I build with
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=EE4E27" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=EE4E27" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=EE4E27" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-141414?style=flat-square&logo=c&logoColor=EE4E27" alt="C and C++" />
-  <img src="https://img.shields.io/badge/Java-141414?style=flat-square&logo=openjdk&logoColor=EE4E27" alt="Java" />
-  <img src="https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=EE4E27" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-141414?style=flat-square&logo=fastapi&logoColor=EE4E27" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=EE4E27" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/TensorFlow-141414?style=flat-square&logo=tensorflow&logoColor=EE4E27" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=EE4E27" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,flask,postgres,tensorflow,docker,java,c,cpp,git&perline=12&theme=dark" alt="Python, TypeScript, React, FastAPI, Flask, PostgreSQL, TensorFlow, Docker, Java, C, C++, and Git" />
 </div>
 
 ## GitHub signal
@@ -68,16 +77,14 @@ A real-time computer-vision pipeline for webcam face detection, tracking, and se
   <img src="./assets/github-stats.svg" width="100%" alt="Live GitHub statistics and most-used languages" />
 </div>
 
-<sub>This graphic is generated from the GitHub API and refreshed automatically each week. Stars and language totals exclude forks.</sub>
-
-## Elsewhere
-
-- Browse the full visual case studies on my [portfolio](https://jebarson-caleb.github.io/).
-- Follow what I’m building on [LinkedIn](https://www.linkedin.com/in/jebarson-caleb/).
-- Start a conversation at [jebarsoncalebd@gmail.com](mailto:jebarsoncalebd@gmail.com).
+<sub>Generated from the GitHub API and refreshed automatically each week. Stars and language totals exclude forks.</sub>
 
 <br />
 
 <div align="center">
-  <sub>JEBARSON CALEB D · TIRUPUR, INDIA · BUILD / TEST / SHIP</sub>
+  <h3>Have an ambitious idea?</h3>
+  <p>Let’s turn it into a system that works.</p>
+  <a href="mailto:jebarsoncalebd@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-EE4E27?style=for-the-badge&logo=gmail&logoColor=050505" alt="Start a conversation" /></a>
+  <br /><br />
+  <sub><a href="https://jebarson-caleb-github-io.vercel.app/">PORTFOLIO</a> / <a href="https://www.linkedin.com/in/jebarson-caleb/">LINKEDIN</a> / <a href="https://github.com/jebarson-caleb">GITHUB</a></sub>
 </div>
