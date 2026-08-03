@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Live GitHub statistics for jebarson-caleb</title>
+  <desc id="desc">Public repositories, contributions in the last year, stars, followers, and top languages.</desc>
+  <style>
+    .kicker { font: 700 12px ui-monospace, SFMono-Regular, Consolas, monospace; letter-spacing: 3px; fill: #9B958C; }
+    .label { font: 700 11px ui-monospace, SFMono-Regular, Consolas, monospace; letter-spacing: 1.4px; fill: #9B958C; }
+    .value { font: 800 38px Inter, ui-sans-serif, system-ui, sans-serif; letter-spacing: -1px; fill: #F3F1EC; }
+    .legend { font: 650 13px ui-monospace, SFMono-Regular, Consolas, monospace; fill: #F3F1EC; }
+  </style>
+  <rect width="1200" height="320" rx="4" fill="#050505"/>
+  <rect x=".5" y=".5" width="1199" height="319" rx="4" fill="none" stroke="#252525"/>
+  <text x="36" y="48" class="kicker">PUBLIC GITHUB / LIVE SIGNAL</text>
+  <circle cx="1158" cy="43" r="5" fill="#EE4E27"/>
+  <path d="M1080 43h61" stroke="#EE4E27" stroke-width="2"/>
+  <rect x="36" y="82" width="270" height="112" rx="3" fill="#101010" stroke="#2B2B2B"/><text x="56" y="116" class="label">PUBLIC REPOSITORIES</text><text x="56" y="166" class="value">16</text><rect x="318" y="82" width="270" height="112" rx="3" fill="#101010" stroke="#2B2B2B"/><text x="338" y="116" class="label">CONTRIBUTIONS / LAST YEAR</text><text x="338" y="166" class="value">107</text><rect x="600" y="82" width="270" height="112" rx="3" fill="#101010" stroke="#2B2B2B"/><text x="620" y="116" class="label">STARS / OWN REPOSITORIES</text><text x="620" y="166" class="value">2</text><rect x="882" y="82" width="270" height="112" rx="3" fill="#101010" stroke="#2B2B2B"/><text x="902" y="116" class="label">FOLLOWERS</text><text x="902" y="166" class="value">4</text>
+  <text x="36" y="218" class="label">LANGUAGE FOOTPRINT / BYTES IN OWN PUBLIC REPOSITORIES</text>
+  <rect x="36.00" y="232" width="458.73" height="14" fill="#EE4E27"/><rect x="494.73" y="232" width="275.41" height="14" fill="#F3F1EC"/><rect x="770.15" y="232" width="218.50" height="14" fill="#9B958C"/><rect x="988.65" y="232" width="139.17" height="14" fill="#C43A20"/><rect x="1127.82" y="232" width="36.18" height="14" fill="#625E58"/>
+  <circle cx="41" cy="281" r="5" fill="#EE4E27"/><text x="54" y="286" class="legend">Python 40.7%</text><circle cx="266" cy="281" r="5" fill="#F3F1EC"/><text x="279" y="286" class="legend">C 24.4%</text><circle cx="491" cy="281" r="5" fill="#9B958C"/><text x="504" y="286" class="legend">MATLAB 19.4%</text><circle cx="716" cy="281" r="5" fill="#C43A20"/><text x="729" y="286" class="legend">JavaScript 12.3%</text><circle cx="941" cy="281" r="5" fill="#625E58"/><text x="954" y="286" class="legend">CSS 3.2%</text>
+</svg>

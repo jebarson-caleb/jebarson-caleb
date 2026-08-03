@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jebarson Caleb</title>
+  <desc id="desc">Software, systems, AI, and robotics portfolio banner in black, warm white, and vermilion.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#242424" stroke-width="1"/>
+    </pattern>
+    <clipPath id="orange-panel">
+      <path d="M925 0h275v360H850l75-360Z"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="360" fill="#050505"/>
+  <rect width="1200" height="360" fill="url(#grid)" opacity=".72"/>
+  <path d="M925 0h275v360H850l75-360Z" fill="#EE4E27"/>
+
+  <g fill="none" stroke="#F3F1EC" opacity=".17" clip-path="url(#orange-panel)">
+    <circle cx="1088" cy="180" r="178" stroke-width="1.4"/>
+    <circle cx="1088" cy="180" r="126" stroke-width="1.4"/>
+    <circle cx="1088" cy="180" r="74" stroke-width="1.4"/>
+    <path d="M850 180h350M1088 0v360"/>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="48" y="54" fill="#A8A39B" font-size="13" font-weight="700" letter-spacing="4">JCD® / PORTFOLIO / 2026</text>
+    <text x="48" y="153" fill="#F3F1EC" font-size="76" font-weight="800" letter-spacing="-3">JEBARSON</text>
+    <text x="48" y="235" fill="#EE4E27" font-size="76" font-weight="800" letter-spacing="-3">CALEB D</text>
+    <line x1="48" y1="276" x2="795" y2="276" stroke="#F3F1EC" stroke-opacity=".28"/>
+    <text x="48" y="316" fill="#F3F1EC" font-size="15" font-weight="650" letter-spacing="3">SOFTWARE / SYSTEMS / AI / ROBOTICS</text>
+
+    <text x="1087" y="198" text-anchor="middle" fill="#050505" font-size="90" font-weight="900" letter-spacing="-7">JC</text>
+    <text x="1087" y="226" text-anchor="middle" fill="#050505" font-size="11" font-weight="800" letter-spacing="3">BUILD / TEST / SHIP</text>
+    <text x="1160" y="326" text-anchor="end" fill="#050505" font-size="12" font-weight="800" letter-spacing="2">TIRUPUR, IN</text>
+  </g>
+
+  <circle cx="812" cy="276" r="5" fill="#EE4E27"/>
+  <path d="M829 276h61" stroke="#EE4E27" stroke-width="2"/>
+</svg>
